@@ -10,7 +10,7 @@
 <ul>
   <li><a href="https://github.com/letsang/useR/blob/master/certifications/Introduction_to_R.pdf">Introduction to R</li>
   <li><a href="https://github.com/letsang/useR/blob/master/certifications/Intermediate_R.pdf">Intermediate R</li>
-  <li><a href="">Introduction to the Tidyverse</li>
+  <li><a href="https://github.com/letsang/useR/blob/master/certifications/Introduction_to_the_Tidyverse.pdf">Introduction to the Tidyverse</li>
   <li><a href="https://github.com/letsang/useR/blob/master/certifications/Introduction_to_Shell.pdf">Introduction to Shell</li>
   <li><a href="https://github.com/letsang/useR/blob/master/certifications/Writting_efficient_R_code.pdf">Writting Efficient R Code</li>
   <li><a href="https://github.com/letsang/useR/blob/master/certifications/String_Manipulation_with_stringr_in_R.pdf">String Manipulation with stringr in R</li>
