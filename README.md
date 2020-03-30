@@ -1,13 +1,13 @@
 <img src="https://www.r-project.org/logo/Rlogo.png" width="100">
 <h3><a href="https://github.com/letsang/useR/blob/master/certifications     /R_programming.pdf">R Programming</h3>
-<ul>
+<ol>
   <li><a href="https://github.com/letsang/useR/blob/master/certifications/Introduction_to_R.pdf">Introduction to R</li>
   <li><a href="https://github.com/letsang/useR/blob/master/certifications/Intermediate_R.pdf">Intermediate R</li>
   <li><a href="https://github.com/letsang/useR/blob/master/certifications/Writting_efficient_R_code.pdf">Writting Efficient R Code</li>
   <li><a href="https://github.com/letsang/useR/blob/master/certifications/Parallel_programming_in_R.pdf">Parallel Programming in R</li>
-</ul>
+</ol>
 <h3><a href="">R Programmer</h3>
-<ul>
+<ol>
   <li><a href="https://github.com/letsang/useR/blob/master/certifications/Introduction_to_R.pdf">Introduction to R</li>
   <li><a href="https://github.com/letsang/useR/blob/master/certifications/Intermediate_R.pdf">Intermediate R</li>
   <li><a href="https://github.com/letsang/useR/blob/master/certifications/Introduction_to_the_Tidyverse.pdf">Introduction to the Tidyverse</li>
@@ -17,4 +17,4 @@
   <li><a href="https://github.com/letsang/useR/blob/master/certifications/Data_Privacy_and_Anonymization_in_R.pdf">Data Privacy and Anonymisation in R</li>
   <li><a href="https://github.com/letsang/useR/blob/master/certifications/Parallel_programming_in_R.pdf">Parallel Programming in R</li>
   <li><a href="">Object-Oriented Programming with S3 and R6 in R</li>
-</ul>
+</ol>
