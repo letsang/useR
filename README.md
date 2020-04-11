@@ -25,3 +25,10 @@
   <li><a href="https://github.com/letsang/useR/blob/master/certifications/Data_Manipulation_with_data.table_in_R.pdf">Data Manipulation with data.table in R</li>
   <li><a href="https://github.com/letsang/useR/blob/master/certifications/Joining_Data_with_data.table_in_R.pdf">Joining Data with data.table in R</li>
 </ol>
+<h3><a href="">Importing & Cleaning Data with R</h3>
+<ol>
+  <li><a href="">Introduction to Importing Data in R</li>
+  <li><a href="">Intermediate Importing Data in R</li>
+  <li><a href="">Cleaning Data in R</li>
+  <li><a href="">Importing & Cleaning Data in R:Case Studies</li>
+</ol>
