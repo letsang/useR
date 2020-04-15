@@ -1,4 +1,4 @@
-# <img src="https://raccoongang.com/media/clients/logo-harvardx.png" width="150">:PH125.2x Data Science Professional Certificate
+# <img src="https://raccoongang.com/media/clients/logo-harvardx.png" width="150">:Data Science Professional Certificate
 <h3><a href="https://courses.edx.org/certificates/541cac22c3aa483e93b89dae33963f1c">Data Science: R Basics</h3>
 <ol>
   <li><a href="https://courses.edx.org/certificates/541cac22c3aa483e93b89dae33963f1c">Section 1: R Basics,Functions, and Data Types</li>
