@@ -14,31 +14,10 @@
   <li><a>Section 4: Gapminder</li>
   <li><a>Section 5: Data Visualization Principles</li>
 </ol>
-<h3><a href="">Data Science: Probability</h3>
-<ol>
-  <li><a href="">Data Science: Probability</li>
-</ol>
-<h3><a href="">Data Science: Inference and Modeling</h3>
-<ol>
-  <li><a href="">Data Science: Inference and Modeling</li>
-</ol>
-<h3><a href="">Data Science: Productivity Tools</h3>
-<ol>
-  <li><a href="">Data Science: Productivity Tools</li>
-</ol>
-<h3><a href="">Data Science: Wrangling</h3>
-<ol>
-  <li><a href="">Data Science: Wrangling</li>
-</ol>
-<h3><a href="">Data Science: Linear Regression</h3>
-<ol>
-  <li><a href="">Data Science: Linear Regression</li>
-</ol>
-<h3><a href="">Data Science: Machine Learning</h3>
-<ol>
-  <li><a href="">Data Science: Machine Learning</li>
-</ol>
-<h3><a href="">Data Science: Capstone</h3>
-<ol>
-  <li><a href="">Data Science: Capstone</li>
-</ol>
+<h3><a>Data Science: Probability</h3>
+<h3><a>Data Science: Inference and Modeling</h3>
+<h3><a>Data Science: Productivity Tools</h3>
+<h3><a>Data Science: Wrangling</h3>
+<h3><a>Data Science: Linear Regression</h3>
+<h3><a>Data Science: Machine Learning</h3>
+<h3><a>Data Science: Capstone</h3>
