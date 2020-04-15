@@ -1,7 +1,7 @@
 # <img src="https://raccoongang.com/media/clients/logo-harvardx.png" width="150">: Data Science Professional Certificate
 <h3><a href="">PH125.2x Data Science</h3>
 <ol>
-  <li><a>Data Science: R Basics</li>
+  <li><a href="">Data Science: R Basics</li>
   <li><a href="">Data Science: Visualization</li>
   <li><a href="">Data Science: Probability</li>
   <li><a href="">Data Science: Inference and Modeling</li>
