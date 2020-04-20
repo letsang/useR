@@ -39,8 +39,8 @@
   <li><a href="https://github.com/letsang/useR/blob/master/certifications/Introduction_to_Importing_Data_in_R.pdf">Introduction to Importing Data in R</li>
   <li><a href="https://github.com/letsang/useR/blob/master/certifications/Intermediate_Importing_Data_in_R.pdf">Intermediate Importing Data in R</li>
   <li><a href="https://github.com/letsang/useR/blob/master/certifications/Cleaning_Data_in_R.pdf">Cleaning Data in R</li>
-  <li><a>Introduction to Data in R</li>
-  <li><a>Exploratory Data Analysis in R</li>
+  <li><a href="https://github.com/letsang/useR/blob/master/certifications/Introduction_to_Data_in_R.pdf">Introduction to Data in R</li>
+  <li><a href="https://github.com/letsang/useR/blob/master/certifications/Exploratory_Data_Analysis_in_R.pdf">Exploratory Data Analysis in R</li>
   <li><a href="https://github.com/letsang/useR/blob/master/certifications/Case_Study:Exploratory_Data_Analysis_in_R.pdf">Case Study:Exploratory Data Analysis in R</li>
   <li><a>Introduction to SQL</li>
   <li><a>Joining Data in SQL</li>
