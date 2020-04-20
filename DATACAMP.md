@@ -32,3 +32,24 @@
   <li><a href="https://github.com/letsang/useR/blob/master/certifications/Cleaning_Data_in_R.pdf">Cleaning Data in R</li>
   <li><a href="https://github.com/letsang/useR/blob/master/certifications/Importing_%26_Cleaning_Data_in_R:Case_Studies.pdf">Importing & Cleaning Data in R:Case Studies</li>
 </ol>
+<h3><a>Data Analyst with R</h3>
+<ol>
+  <li><a href="https://github.com/letsang/useR/blob/master/certifications/Introduction_to_R.pdf">Introduction to R</li>
+  <li><a href="https://github.com/letsang/useR/blob/master/certifications/Introduction_to_the_Tidyverse.pdf">Introduction to the Tidyverse</li>
+  <li><a href="https://github.com/letsang/useR/blob/master/certifications/Introduction_to_Importing_Data_in_R.pdf">Introduction to Importing Data in R</li>
+  <li><a href="https://github.com/letsang/useR/blob/master/certifications/Intermediate_Importing_Data_in_R.pdf">Intermediate Importing Data in R</li>
+  <li><a href="https://github.com/letsang/useR/blob/master/certifications/Cleaning_Data_in_R.pdf">Cleaning Data in R</li>
+  <li><a>Introduction to Data in R</li>
+  <li><a>Exploratory Data Analysis in R</li>
+  <li><a>Case Study:Exploratory Data Analysis in R</li>
+  <li><a>Introduction to SQL</li>
+  <li><a>Joining Data in SQL</li>
+  <li><a href="https://github.com/letsang/useR/blob/master/certifications/Data_Manipulation_with_data.table_in_R.pdf">Data Manipulation with data.table in R</li>
+  <li><a href="https://github.com/letsang/useR/blob/master/certifications/Joining_Data_with_data.table_in_R.pdf">Joining Data with data.table in R</li>
+  <li><a>Data Visualization with ggplot2</li>
+  <li><a>Visualization Best Practices in R</li>
+  <li><a>Correlation and Regression in R</li>
+  <li><a>Modeling with Data in the Tidyverse</li>
+  <li><a>Categorical Data in the Tidyverse</li>
+  <li><a>Communicating with Data in the Tidyverse</li>
+</ol>
