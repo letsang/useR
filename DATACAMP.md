@@ -41,7 +41,7 @@
   <li><a href="https://github.com/letsang/useR/blob/master/certifications/Cleaning_Data_in_R.pdf">Cleaning Data in R</li>
   <li><a>Introduction to Data in R</li>
   <li><a>Exploratory Data Analysis in R</li>
-  <li><a>Case Study:Exploratory Data Analysis in R</li>
+  <li><a href="https://github.com/letsang/useR/blob/master/certifications/Case_Study:Exploratory_Data_Analysis_in_R.pdf">Case Study:Exploratory Data Analysis in R</li>
   <li><a>Introduction to SQL</li>
   <li><a>Joining Data in SQL</li>
   <li><a href="https://github.com/letsang/useR/blob/master/certifications/Data_Manipulation_with_data.table_in_R.pdf">Data Manipulation with data.table in R</li>
