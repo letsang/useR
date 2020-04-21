@@ -1,5 +1,6 @@
 # DataCamp Completed Tracks
 ## <img src="https://www.blockspring.com/assets/r_icon-4430867d3ab1a3b1c975a195aabc5051a7099973eccd9cd00f8ea8c796b2e950.png" width="40"> Skill Tracks
+<div style="float: left; width: 50%;">
 <h3><a href="https://github.com/letsang/useR/blob/master/certifications     /R_programming.pdf">R Programming</h3>
 <ol>
   <li><a href="https://github.com/letsang/useR/blob/master/certifications/Introduction_to_R.pdf">Introduction to R</li>
@@ -21,6 +22,10 @@
   <li><a href="https://github.com/letsang/useR/blob/master/certifications/Cleaning_Data_in_R.pdf">Cleaning Data in R</li>
   <li><a href="https://github.com/letsang/useR/blob/master/certifications/Importing_%26_Cleaning_Data_in_R:Case_Studies.pdf">Importing & Cleaning Data in R:Case Studies</li>
 </ol>
+</div>
+<div style="float: right; width: 50%;">
+# LOL
+</div>
   
 ## <img src="https://www.blockspring.com/assets/r_icon-4430867d3ab1a3b1c975a195aabc5051a7099973eccd9cd00f8ea8c796b2e950.png" width="40"> Career Tracks
 <h3><a href="https://github.com/letsang/useR/blob/master/certifications/R_Programmer.pdf">R Programmer</h3>
