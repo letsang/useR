@@ -1,4 +1,4 @@
-# <a href="https://vectorlogoseek.com/datacamp-vector-logo-svg/" target="_blank"><img src="https://vectorlogoseek.com/wp-content/uploads/2019/05/datacamp-vector-logo.png" width="200"/></a> Completed Tracks
+# <img src="https://vectorlogoseek.com/wp-content/uploads/2019/05/datacamp-vector-logo.png" width="200"/> Completed Tracks
 ## <img src="https://www.blockspring.com/assets/r_icon-4430867d3ab1a3b1c975a195aabc5051a7099973eccd9cd00f8ea8c796b2e950.png" width="40"> Skill Tracks
 <h3><a href="https://github.com/letsang/useR/blob/master/certifications     /R_programming.pdf">R Programming</h3>
 <ol>
