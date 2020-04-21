@@ -1,4 +1,4 @@
-# <img src="https://www.blockspring.com/assets/r_icon-4430867d3ab1a3b1c975a195aabc5051a7099973eccd9cd00f8ea8c796b2e950.png" width="40"> DataCamp Completed Tracks
+# <img src="https://inileuven.be/wp-content/uploads/2016/12/datacamp.png" width="40"> DataCamp Completed Tracks
 ## <img src="https://www.blockspring.com/assets/r_icon-4430867d3ab1a3b1c975a195aabc5051a7099973eccd9cd00f8ea8c796b2e950.png" width="40"> Skill Tracks
 <h3><a href="https://github.com/letsang/useR/blob/master/certifications     /R_programming.pdf">R Programming</h3>
 <ol>
