@@ -38,6 +38,12 @@ ma_page <-function(x,i,j)
 ### Create dataframe function
 dtf_page <-function(x,i,j)
 {
+  if (i > j)
+  {
+    tmp <-i
+    i <-j
+    j <-tmp
+  }
   page <-data.frame(nouns=character(),
                     count=integer(),
                     page=character())
@@ -57,10 +63,13 @@ shinyApp(
   tags$h4("Splendeurs et Misères de la Mode"),
   sidebarLayout(
     sidebarPanel(
-      numericInput("pages", "Choose the page:",
-                                    value = 42,
+      numericInput("page1", "Choose the page(s) from:",
+                                    value = 1,
                                     min = 1,
-                                    max = 200)),
+                                    max = 200),
+      numericInput("page2", "to:", value = 2,
+                                   min = 1,
+                                   max = 200)),
     mainPanel(
       plotOutput("popular"))
     )
@@ -68,8 +77,8 @@ shinyApp(
   
   server <- function(input, output) {
   output$popular <- renderPlot({
-  page <- dtf_page(nouns,input$pages,input$pages)
+  page <- dtf_page(nouns,input$page1,input$page2)
   beautiful <-page %>% group_by(nouns=as.factor(nouns)) %>% summarise(count=sum(count)) %>% arrange(desc(count))
-  ggplot(beautiful[1:10,], aes(x=reorder(nouns,count), count)) + geom_col(fill="black") + coord_flip() + labs(x="nouns") + ggtitle(paste("The Most Beautiful People in page",as.character(input$pages)))
+  ggplot(beautiful[1:10,], aes(x=reorder(nouns,count), count)) + geom_col(fill="black") + coord_flip() + labs(x="nouns") + ggtitle(paste("The Most Beautiful People from page",as.character(input$page1),"to",as.character(input$page2)))
   })
 })
