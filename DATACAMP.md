@@ -50,7 +50,7 @@
   <li><a href="https://github.com/letsang/useR/blob/master/certifications/Data_Manipulation_with_data.table_in_R.pdf">Data Manipulation with data.table in R</li>
   <li><a href="https://github.com/letsang/useR/blob/master/certifications/Joining_Data_with_data.table_in_R.pdf">Joining Data with data.table in R</li>
   <li><a href="https://github.com/letsang/useR/blob/master/certifications/Data_Visualization_with_ggplot2.pdf">Data Visualization with ggplot2</li>
-  <li><a>Visualization Best Practices in R</li>
+  <li><a href="https://github.com/letsang/useR/blob/master/certifications/Visualization_Best_Practices_in_R.pdf">Visualization Best Practices in R</li>
   <li><a>Correlation and Regression in R</li>
   <li><a>Modeling with Data in the Tidyverse</li>
   <li><a>Categorical Data in the Tidyverse</li>
