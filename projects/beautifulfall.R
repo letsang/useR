@@ -100,6 +100,7 @@ shinyApp(
     
     output$images<-renderText({
     beautiful <-rpage() %>% group_by(nouns=as.factor(nouns)) %>% summarise(count=sum(count)) %>% arrange(desc(count))
+    beautiful <- beautiful[1:10,]
     ### Google TBS parameters valid for image search (TBM=isch) ###
     # Image size larger than 640×480: tbs=isz:lt,islt:vga
     size1 <- "isz:lt,islt:vga"
@@ -136,16 +137,17 @@ shinyApp(
                  sep="")
     page <- read_html(url)
     node <- html_nodes(page,xpath = '//img') %>% lapply(str_extract_all, "http[^\"><]+")
-    height <- "height='100'"
-    c("<img src=", unlist(node[5]), height, ">",
-      "<img src=", unlist(node[6]), height, ">",
-      "<img src=", unlist(node[7]), height, ">",
-      "<img src=", unlist(node[8]), height, ">",
-      "<img src=", unlist(node[9]), height, ">",
-      "<img src=", unlist(node[10]), height, ">",
-      "<img src=", unlist(node[11]), height, ">",
-      "<img src=", unlist(node[12]), height, ">",
-      "<img src=", unlist(node[13]), height, ">",
-      "<img src=", unlist(node[14]), height, ">")
+    height <- "height='120'"
+    padding <- "style='padding:10px 0px 2px 0px'"
+    c("<img", padding, "src=", unlist(node[5]), height, ">",
+      "<img", padding, "src=", unlist(node[6]), height, ">",
+      "<img", padding, "src=", unlist(node[7]), height, ">",
+      "<img", padding, "src=", unlist(node[8]), height, ">",
+      "<img", padding, "src=", unlist(node[9]), height, ">",
+      "<img", padding, "src=", unlist(node[10]), height, ">",
+      "<img", padding, "src=", unlist(node[11]), height, ">",
+      "<img", padding, "src=", unlist(node[12]), height, ">",
+      "<img", padding, "src=", unlist(node[13]), height, ">",
+      "<img", padding, "src=", unlist(node[14]), height, ">")
   })
 })
