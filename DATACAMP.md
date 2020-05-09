@@ -40,15 +40,42 @@
 </ol>
 </details>
   
-<h3><a href="https://github.com/letsang/useR/blob/master/certifications/Data_Manipulation_with_R.pdf">Data Manipulation with R</h3>
+<details>
+<summary><a href="https://github.com/letsang/useR/blob/master/certifications/Data_Manipulation_with_R.pdf">Data Manipulation with R</summary>
 <ol>
   <li><a href="https://github.com/letsang/useR/blob/master/certifications/Working_with_Data_in_the_Tidyverse.pdf">Working with Data in the Tidyverse</li>
+    <ul>
+      <li>Explore your data</li>
+      <li>Tame your data</li>
+      <li>Tidy your data</li>
+      <li>Transform your data</li>
+    </ul>
   <li><a href="https://github.com/letsang/useR/blob/master/certifications/Case_Study:Exploratory_Data_Analysis_in_R.pdf">Case Study:Exploratory Data Analysis in R</li>
+    <ul>
+      <li>Data cleaning and summarizing with dplyr</li>
+      <li>Data visualization with ggplot2</li>
+      <li>Tidy modeling with broom</li>
+      <li>Joining and tidying</li>
+    </ul>
   <li><a href="https://github.com/letsang/useR/blob/master/certifications/Data_Manipulation_with_data.table_in_R.pdf">Data Manipulation with data.table in R</li>
+    <ul>
+      <li>Introduction to data.table</li>
+      <li>Selecting and Computing on Columns</li>
+      <li>Groupwise Operations</li>
+      <li>Reference Semantics</li>
+      <li>Importing and Exporting Data</li>
+    </ul>
   <li><a href="https://github.com/letsang/useR/blob/master/certifications/Joining_Data_with_data.table_in_R.pdf">Joining Data with data.table in R</li>
+    <ul>
+      <li>Joining Multiple data.tables</li>
+      <li>Joins Using data.table Syntax</li>
+      <li>Diagnosing and Fixing Common Join Problems</li>
+      <li>Concatenating and Reshaping data.tables</li>
+    </ul>
 </ol>
+</details>
   
-<h3><a href="https://github.com/letsang/useR/blob/master/certifications/Importing_%26_Cleaning_Data_with_R.pdf">Importing & Cleaning Data with R</h3>
+<a href="https://github.com/letsang/useR/blob/master/certifications/Importing_%26_Cleaning_Data_with_R.pdf">Importing & Cleaning Data with R
 <ol>
   <li><a href="https://github.com/letsang/useR/blob/master/certifications/Introduction_to_Importing_Data_in_R.pdf">Introduction to Importing Data in R</li>
   <li><a href="https://github.com/letsang/useR/blob/master/certifications/Intermediate_Importing_Data_in_R.pdf">Intermediate Importing Data in R</li>
@@ -56,7 +83,7 @@
   <li><a href="https://github.com/letsang/useR/blob/master/certifications/Importing_%26_Cleaning_Data_in_R:Case_Studies.pdf">Importing & Cleaning Data in R:Case Studies</li>
 </ol>
   
-<h3><a>Shiny Fundamentals with R</h3>
+<a>Shiny Fundamentals with R
  <ol>
   <li><a href="https://github.com/letsang/useR/blob/master/certifications/Building_Web_Applications_with_Shiny_in_R.pdf">Building Web Applications with Shiny in R</li>
   <li><a>Case Studies: Building Web Applications with Shiny in R</li>
