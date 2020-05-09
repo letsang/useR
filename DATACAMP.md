@@ -75,13 +75,40 @@
 </ol>
 </details>
   
-<a href="https://github.com/letsang/useR/blob/master/certifications/Importing_%26_Cleaning_Data_with_R.pdf">Importing & Cleaning Data with R
+<details>
+<summary><a href="https://github.com/letsang/useR/blob/master/certifications/Importing_%26_Cleaning_Data_with_R.pdf">Importing & Cleaning Data with R</summary>
 <ol>
   <li><a href="https://github.com/letsang/useR/blob/master/certifications/Introduction_to_Importing_Data_in_R.pdf">Introduction to Importing Data in R</li>
+    <ul>
+      <li>Importing data from flat files with utils</li>
+      <li>readr & data.table</li>
+      <li>Importing Excel data</li>
+      <li>Reproducible Excel work with XLConnect</li>
+    </ul>
   <li><a href="https://github.com/letsang/useR/blob/master/certifications/Intermediate_Importing_Data_in_R.pdf">Intermediate Importing Data in R</li>
+    <ul>
+      <li>Importing data from databases (Part 1)</li>
+      <li>Importing data from databases (Part 2)</li>
+      <li>Importing data from the web (Part 1)</li>
+      <li>Importing data from the web (Part 2)</li>
+      <li>Importing data from statistical software packages</li>
+    </ul>
   <li><a href="https://github.com/letsang/useR/blob/master/certifications/Cleaning_Data_in_R.pdf">Cleaning Data in R</li>
+    <ul>
+      <li>Introduction and exploring raw data</li>
+      <li>Tidying data</li>
+      <li>Preparing data for analysis</li>
+      <li>Putting it all together</li>
+    </ul>
   <li><a href="https://github.com/letsang/useR/blob/master/certifications/Importing_%26_Cleaning_Data_in_R:Case_Studies.pdf">Importing & Cleaning Data in R:Case Studies</li>
+    <ul>
+      <li>Ticket Sales Data</li>
+      <li>MBTA Ridership Data</li>
+      <li>World Food Facts</li>
+      <li>School Attendance Data</li>
+    </ul>
 </ol>
+</details>
   
 <a>Shiny Fundamentals with R
  <ol>
