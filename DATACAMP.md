@@ -24,12 +24,12 @@
   <li><a href="https://github.com/letsang/useR/blob/master/certifications/Importing_%26_Cleaning_Data_in_R:Case_Studies.pdf">Importing & Cleaning Data in R:Case Studies</li>
 </ol>
   
-<h3><a href="">Shiny Fundamentals with R</h3>
+<h3><a>Shiny Fundamentals with R</h3>
  <ol>
-  <li><a href="https://github.com/letsang/useR/blob/master/certifications/Building_Web_Applications_with_Shiny_in_R.pdf">Building Web Applications with Shiny in R<</li>
-  <li><a href="">Case Studies: Building Web Applications with Shiny in R</li>
-  <li><a href="">Building Dashboards with shinydashboard</li>
-  <li><a href="">Building Dashboards with flexdashboard</li>
+  <li><a href="https://github.com/letsang/useR/blob/master/certifications/Building_Web_Applications_with_Shiny_in_R.pdf">Building Web Applications with Shiny in R</li>
+  <li><a>Case Studies: Building Web Applications with Shiny in R</li>
+  <li><a>Building Dashboards with shinydashboard</li>
+  <li><a>Building Dashboards with flexdashboard</li>
 </ol>
   
 ## <img src="https://www.blockspring.com/assets/r_icon-4430867d3ab1a3b1c975a195aabc5051a7099973eccd9cd00f8ea8c796b2e950.png" width="40"> Career Tracks
