@@ -14,8 +14,29 @@
     </ul>
     
   <li><a href="https://github.com/letsang/useR/blob/master/certifications/Intermediate_R.pdf">Intermediate R</li>
+    <ul>
+      <li>Conditionals and Control Flow</li>
+      <li>Loops</li>
+      <li>Functions</li>
+      <li>The apply family</li>
+      <li>Utilities</li>
+    </ul>
+  
   <li><a href="https://github.com/letsang/useR/blob/master/certifications/Writting_efficient_R_code.pdf">Writting Efficient R Code</li>
+    <ul>
+      <li>The Art of Benchmarking</li>
+      <li>Fine Tuning: Efficient Base R</li>
+      <li>Diagnosing Problems: Code Profiling</li>
+      <li>Turbo Charged Code: Parallel Programming</li>
+    </ul>
+  
   <li><a href="https://github.com/letsang/useR/blob/master/certifications/Parallel_programming_in_R.pdf">Parallel Programming in R</li>
+    <ul>
+      <li>Can I Run My Application in Parallel?</li>
+      <li>The parallel Package</li>
+      <li>foreach, future.apply and Load Balancing</li>
+      <li>Random Numbers and Reproducibility</li>
+    </ul>
 </ol>
 </details>
   
