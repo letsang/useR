@@ -7,6 +7,7 @@
   <li><a href="https://github.com/letsang/useR/blob/master/certifications/Writting_efficient_R_code.pdf">Writting Efficient R Code</li>
   <li><a href="https://github.com/letsang/useR/blob/master/certifications/Parallel_programming_in_R.pdf">Parallel Programming in R</li>
 </ol>
+  
 <h3><a href="https://github.com/letsang/useR/blob/master/certifications/Data_Manipulation_with_R.pdf">Data Manipulation with R</h3>
 <ol>
   <li><a href="https://github.com/letsang/useR/blob/master/certifications/Working_with_Data_in_the_Tidyverse.pdf">Working with Data in the Tidyverse</li>
@@ -14,12 +15,21 @@
   <li><a href="https://github.com/letsang/useR/blob/master/certifications/Data_Manipulation_with_data.table_in_R.pdf">Data Manipulation with data.table in R</li>
   <li><a href="https://github.com/letsang/useR/blob/master/certifications/Joining_Data_with_data.table_in_R.pdf">Joining Data with data.table in R</li>
 </ol>
+  
 <h3><a href="https://github.com/letsang/useR/blob/master/certifications/Importing_%26_Cleaning_Data_with_R.pdf">Importing & Cleaning Data with R</h3>
 <ol>
   <li><a href="https://github.com/letsang/useR/blob/master/certifications/Introduction_to_Importing_Data_in_R.pdf">Introduction to Importing Data in R</li>
   <li><a href="https://github.com/letsang/useR/blob/master/certifications/Intermediate_Importing_Data_in_R.pdf">Intermediate Importing Data in R</li>
   <li><a href="https://github.com/letsang/useR/blob/master/certifications/Cleaning_Data_in_R.pdf">Cleaning Data in R</li>
   <li><a href="https://github.com/letsang/useR/blob/master/certifications/Importing_%26_Cleaning_Data_in_R:Case_Studies.pdf">Importing & Cleaning Data in R:Case Studies</li>
+</ol>
+  
+<h3><a href="">Shiny Fundamentals with R</h3>
+ <ol>
+  <li><a href="https://github.com/letsang/useR/blob/master/certifications/Building_Web_Applications_with_Shiny_in_R.pdf">Building Web Applications with Shiny in R<</li>
+  <li><a href="">Case Studies: Building Web Applications with Shiny in R</li>
+  <li><a href="">Building Dashboards with shinydashboard</li>
+  <li><a href="">Building Dashboards with flexdashboard</li>
 </ol>
   
 ## <img src="https://www.blockspring.com/assets/r_icon-4430867d3ab1a3b1c975a195aabc5051a7099973eccd9cd00f8ea8c796b2e950.png" width="40"> Career Tracks
