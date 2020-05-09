@@ -2,11 +2,12 @@
 ## <img src="https://www.blockspring.com/assets/r_icon-4430867d3ab1a3b1c975a195aabc5051a7099973eccd9cd00f8ea8c796b2e950.png" width="40"> Skill Tracks
 <h3><a href="https://github.com/letsang/useR/blob/master/certifications     /R_programming.pdf">R Programming</h3>
 <ol>
-  <details><summary><li><a href="https://github.com/letsang/useR/blob/master/certifications/Introduction_to_R.pdf">Introduction to R</li></summary><br>LOL</details>
+  <details><summary><li><a href="https://github.com/letsang/useR/blob/master/certifications/Introduction_to_R.pdf">Introduction to R</li></summary>LOL</details>
   <li><a href="https://github.com/letsang/useR/blob/master/certifications/Intermediate_R.pdf">Intermediate R</li>
   <li><a href="https://github.com/letsang/useR/blob/master/certifications/Writting_efficient_R_code.pdf">Writting Efficient R Code</li>
   <li><a href="https://github.com/letsang/useR/blob/master/certifications/Parallel_programming_in_R.pdf">Parallel Programming in R</li>
 </ol>
+
   
 <h3><a href="https://github.com/letsang/useR/blob/master/certifications/Data_Manipulation_with_R.pdf">Data Manipulation with R</h3>
 <ol>
