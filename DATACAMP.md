@@ -111,7 +111,7 @@
 </details>
   
 <details>
-<summary><a>Shiny Fundamentals with R - 4 hours - 61 exercices</summary>
+<summary><a>Shiny Fundamentals with R</summary>
  <ol>
   <li><a href="https://github.com/letsang/useR/blob/master/certifications/Building_Web_Applications_with_Shiny_in_R.pdf">Building Web Applications with Shiny in R</li>
     <ul>
