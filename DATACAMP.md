@@ -110,13 +110,21 @@
 </ol>
 </details>
   
-<a>Shiny Fundamentals with R
+<details>
+<summary><a>Shiny Fundamentals with R - 4 hours - 61 exercices</summary>
  <ol>
   <li><a href="https://github.com/letsang/useR/blob/master/certifications/Building_Web_Applications_with_Shiny_in_R.pdf">Building Web Applications with Shiny in R</li>
+    <ul>
+      <li>Get Started with Shiny</li>
+      <li>Inputs, Outputs, and Layouts</li>
+      <li>Reactive Programming</li>
+      <li>Build Shiny Apps</li>
+    </ul>
   <li><a>Case Studies: Building Web Applications with Shiny in R</li>
   <li><a>Building Dashboards with shinydashboard</li>
   <li><a>Building Dashboards with flexdashboard</li>
 </ol>
+</details>
   
 ## <img src="https://www.blockspring.com/assets/r_icon-4430867d3ab1a3b1c975a195aabc5051a7099973eccd9cd00f8ea8c796b2e950.png" width="40"> Career Tracks
 <h3><a href="https://github.com/letsang/useR/blob/master/certifications/R_Programmer.pdf">R Programmer</h3>
